@@ -1,66 +1,34 @@
-# Sem-2_Sprint-1_DSA_Projects
+📚 DSA_Projects – Data Structures and Algorithms
+This repository contains implementations of core Data Structures and Algorithms (DSA) as outlined in our academic lab manual. Each module is designed to provide a practical, hands-on understanding of foundational DSA concepts using the C programming language.
 
-Data Structures and Algorithms Project
-This repository contains implementations of various Data Structures and Algorithms (DSA) as outlined in the lab manual. Each module is designed to provide a hands-on understanding of fundamental DSA concepts.
+🧩 Modules Included
+🧮 Array Operations
+Insertion, deletion, and searching operations
+Menu-driven interface for interactive learning
 
-Modules Included:
-Array Operations
+🗃️ Stack ADT
+Using Arrays: Stack operations implemented with static memory allocation
+Infix to Postfix Conversion: Utilizes the stack to convert expressions
+Postfix Evaluation: Evaluates postfix expressions using stack logic
+Using Linked List: Stack implementation with dynamic memory
 
-Implements basic operations on arrays like insertion, deletion, searching, etc. through a menu-driven program.
-Stack ADT using Array
+📊 Queue ADT
+Linear Queue (Array-based)
+Circular Queue (Array-based)
+Linear Queue (Linked List-based)
 
-Implements Stack Abstract Data Type (ADT) using arrays.
-Infix to Postfix Conversion
+🔗 Linked Lists
+Singly Linked List
+Circular Linked List
 
-Converts an infix expression to postfix expression using the Stack ADT.
-Evaluation of Postfix Expression
+🌲 Binary Search Tree (BST)
+BST operations implemented using a linked list-based node structure
 
-Evaluates a postfix expression using the Stack ADT.
-Linear Queue ADT using Array
+🌐 Graphs
+Graph representation using adjacency matrix or list
+Depth First Search (DFS)
+Breadth First Search (BFS)
 
-Implements Linear Queue ADT using arrays.
-Circular Queue ADT using Array
-
-Implements Circular Queue ADT using arrays.
-Singly Linked List ADT
-
-Implements Singly Linked List ADT.
-Circular Linked List ADT
-
-Implements Circular Linked List ADT.
-Stack ADT using Linked List
-
-Implements Stack ADT using Linked List.
-Linear Queue ADT using Linked List
-
-Implements Linear Queue ADT using Linked List.
-Binary Search Tree ADT using Linked List
-
-Implements Binary Search Tree ADT using Linked List.
-Graph Traversal Techniques
-
-Implements Depth First Search (DFS) and Breadth First Search (BFS) algorithms for graph traversal.
-Binary Search Algorithm
-
-Implements the Binary Search algorithm to search for an element in an array.
-Bubble Sort Algorithm
-
-Implements the Bubble Sort algorithm to sort elements of an array in ascending and descending order.
-How to Use:
-Clone this repository to your local machine.
-Navigate to the desired module.
-Compile and run the respective source file.
-Feel free to explore each module and experiment with different inputs to gain a better understanding of the concepts.
-
-
-License:
-This project is licensed under the MIT License.
-
-Acknowledgments:
-Special thanks to Sumit Sir for providing the lab manual and guidance throughout the course.
-
-
-
-
-
-
+🔍 Searching & Sorting
+Binary Search: Efficient search on sorted arrays
+Bubble Sort: Sort elements in ascending/descending order
